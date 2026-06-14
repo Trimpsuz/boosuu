@@ -7,6 +7,9 @@
 
 This is an Xposed/LSPosed Module for [**Busuu**](https://busuu.com/).
 
+> [!IMPORTANT]
+> This project does not work on newer versions and will not be updated. See [morphe-busuu](https://github.com/Trimpsuz/morphe-busuu) for the updated morphe patch rewrite.
+
 ### Tested on:
 
 - **Busuu** v32.4.1 (1237713)
